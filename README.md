@@ -1,1 +1,1 @@
-# Git demo remote
+# Git demo remote (Very cool)
